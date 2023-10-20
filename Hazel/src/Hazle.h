@@ -2,7 +2,7 @@
 
 //Use by Applications 
 
-#include<stdio.h>
+#include"Hazel/Log.h"
 #include"Hazel\Application.h"
 
 //--------EntryPoint-------------
