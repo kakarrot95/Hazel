@@ -1,4 +1,4 @@
-architechture "x64"
+architecture "x64"
 
 workspace "Hazel"
 	startproject "Sandbox"
